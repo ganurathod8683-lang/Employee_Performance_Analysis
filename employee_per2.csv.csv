@@ -1,0 +1,31 @@
+,Employee_ID,Name,Age,Gender,City,Department,Experience_Years,Monthly_Salary,Performance_Score,Projects_Completed,Working_Hours,Leaves_Taken,Customer_Satisfaction,New_Salary,Perfomance_Category,Experience_Category
+0,E001,Aarav,24,Male,Pune,IT,1,32000,78,4,42,8,82,35200,Good,Junior
+1,E002,Diya,27,Female,Mumbai,HR,3,45000,85,6,40,5,88,49500,Good,Junior
+2,E003,Rohan,31,Male,Nashik,Sales,6,58000,91,9,45,4,93,63800,Excellent ,Junior
+3,E004,Anaya,23,Female,Pune,Finance,1,30000,74,3,41,10,79,33000,Good,Junior
+4,E005,Vivaan,29,Male,Mumbai,IT,4,52000,88,7,44,6,90,57200,Good,Junior
+5,E006,Isha,26,Female,Nagpur,Marketing,3,40000,82,5,42,7,85,44000,Good,Junior
+6,E007,Aditya,35,Male,Pune,Sales,9,72000,95,12,46,3,96,79200,Excellent ,Senoir 
+7,E008,Myra,28,Female,Nashik,HR,4,47000,79,5,39,9,81,51700,Good,Junior
+8,E009,Arjun,30,Male,Mumbai,Finance,6,61000,87,8,43,5,89,67100,Good,Junior
+9,E010,Saanvi,25,Female,Pune,IT,2,36000,81,5,41,6,84,39600,Good,Junior
+10,E011,Kabir,33,Male,Nagpur,Marketing,8,68000,90,10,45,4,92,74800,Excellent ,Senoir 
+11,E012,Kiara,22,Female,Pune,HR,1,28000,72,2,40,12,76,30800,Good,Junior
+12,E013,Reyansh,27,Male,Mumbai,IT,3,49000,84,6,43,7,87,53900,Good,Junior
+13,E014,Meera,32,Female,Nashik,Finance,7,63000,93,10,44,3,95,69300,Excellent ,Senoir 
+14,E015,Ved,29,Male,Pune,Sales,5,54000,86,8,42,5,90,59400,Good,Junior
+15,E016,Tara,24,Female,Nagpur,Marketing,2,34000,77,4,40,8,80,37400,Good,Junior
+16,E017,Ayaan,36,Male,Mumbai,IT,11,80000,96,14,47,2,98,88000,Excellent ,Senoir 
+17,E018,Navya,26,Female,Pune,HR,3,42000,83,6,41,6,86,46200,Good,Junior
+18,E019,Krish,31,Male,Nashik,Sales,6,59000,89,9,44,4,92,64900,Good,Junior
+19,E020,Riya,28,Female,Mumbai,Finance,5,51000,85,7,42,6,88,56100,Good,Junior
+20,E021,Dhruv,34,Male,Pune,Marketing,9,70000,92,11,46,3,94,77000,Excellent ,Senoir 
+21,E022,Avni,23,Female,Nagpur,IT,1,31000,76,3,40,10,78,34100,Good,Junior
+22,E023,Ishaan,30,Male,Mumbai,HR,5,57000,88,8,43,5,91,62700,Good,Junior
+23,E024,Anvi,27,Female,Nashik,Finance,3,46000,80,5,41,7,83,50600,Good,Junior
+24,E025,Manav,38,Male,Pune,Sales,13,85000,97,16,48,2,99,93500,Excellent ,Senoir 
+25,E026,Pari,25,Female,Mumbai,Marketing,2,39000,79,5,42,8,82,42900,Good,Junior
+26,E027,Samarth,32,Male,Nagpur,IT,7,64000,91,10,45,4,94,70400,Excellent ,Senoir 
+27,E028,Aadhya,29,Female,Pune,Finance,5,55000,86,7,42,5,89,60500,Good,Junior
+28,E029,Yash,26,Male,Nashik,Sales,3,43000,82,6,43,7,85,47300,Good,Junior
+29,E030,Siya,33,Female,Mumbai,HR,8,69000,94,11,44,3,96,75900,Excellent ,Senoir 
